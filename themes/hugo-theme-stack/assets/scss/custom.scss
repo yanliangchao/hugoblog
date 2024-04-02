@@ -1,0 +1,27 @@
+/* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
+//修改选中颜色
+::selection {
+    color: #fff;
+    background: #34495e;
+}
+
+//友情链接双栏
+@media (min-width: 1024px) {
+    .article-list--compact.links {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        background: none;
+        box-shadow: none;
+        
+        article {
+            background: var(--card-background);
+            border: none;
+            box-shadow: var(--shadow-l2);
+            margin-bottom: 8px;
+            border-radius: 10px;
+            &:nth-child(odd) {
+                margin-right: 8px;
+            }
+        }
+    }
+}
