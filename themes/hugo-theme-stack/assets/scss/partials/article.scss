@@ -247,11 +247,15 @@
         }
 
         &.has-image {
-            .article-details {
-                background-color: rgba(#000, 0.25);
-            }
+            // .article-details {
+            //     background-color: rgba(#000, 0.25);
+            // }
 
             .article-title {
+                color: #fff;
+            }
+            .article-count {
+                margin-left: 7px;
                 color: #fff;
             }
         }

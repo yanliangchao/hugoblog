@@ -3,14 +3,14 @@ baseurl: https://blog.lcyan.cloud
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
-title: 剑神
+title: Alex’s Blog
 copyright: 多情剑客无情剑
 
 languages:
     zh-cn:
         languageName: 中文
         # 博客名
-        title: 剑神
+        title: Alex’s Blog
         weight: 1
         params:
             description: 多情剑客无情剑
