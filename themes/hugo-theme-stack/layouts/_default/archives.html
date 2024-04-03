@@ -19,7 +19,6 @@
     {{ if $terms }}
     <section class="widget tagCloud">
     <h2 class="section-title">{{ $taxonomy.Title }}</h2>
-
         <div class="tagCloud-tags">
             {{ if ne (len $.Site.Taxonomies.tags) 0 }}
                 {{ range $name, $taxonomy := $.Site.Taxonomies.tags }}
@@ -40,6 +39,7 @@
     {{ range $filtered.GroupByDate "2006" }}
     {{ $id := lower (replace .Key " " "-") }}
     <div class="archives-group" id="{{ $id }}">
+        <br /><br /><br />
         <h2 class="archives-date section-title"><a href="{{ $.RelPermalink }}#{{ $id }}">{{ .Key }}</a></h2>
         <div class="article-list--compact">
             {{ range .Pages }}
