@@ -1,4 +1,4 @@
-baseurl: http://localhost:1313
+baseurl: https://blog.lcyan.cloud
 # languageCode: en-us
 languageCode: zh-cn
 theme: hugo-theme-stack
