@@ -1,10 +1,11 @@
-baseurl: https://blog.lcyan.cloud
+baseurl: http://localhost:1313
 # languageCode: en-us
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
 title: Alex’s Blog
 copyright: 多情剑客无情剑
+canonifyURLs: true
 
 languages:
     zh-cn:
@@ -53,7 +54,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:  # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+    favicon: /favicon.ico # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
         since: 2020
@@ -203,8 +204,10 @@ params:
             enabled: true
     busuanzi:
         enabled: true
-        site_offset: 10000
-        visitor_offset: 5000
+        site_offset: 0
+        visitor_offset: 0
+    fontcss:
+        - "/assets/css/fonts.css"
 
 ### Custom menu
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
