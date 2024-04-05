@@ -1,23 +1,24 @@
-+++
-author = "Hugo Authors"
-title = "Markdown Syntax Guide"
-date = "2019-03-11"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-tags = [
+---
+author: "Hugo Authors"
+title: "Markdown Syntax Guide01"
+date: "2019-03-11"
+description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+tags: [
     "markdown",
     "css",
     "html",
     "themes",
 ]
-categories = [
+categories: [
     "operation",
     "code",
     "log",
 ]
-series = ["Themes Guide"]
-aliases = ["migrate-from-jekyl"]
-image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
-+++
+series: ["Themes Guide"]
+aliases: ["migrate-from-jekyl"]
+image: "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
+draft: true
+---
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 <!--more-->
@@ -122,10 +123,10 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 
 ```diff
 [dependencies.bevy]
-git = "https://github.com/bevyengine/bevy"
-rev = "11f52b8c72fc3a568e8bb4a4cd1f3eb025ac2e13"
-- features = ["dynamic"]
-+ features = ["jpeg", "dynamic"]
+git: "https://github.com/bevyengine/bevy"
+rev: "11f52b8c72fc3a568e8bb4a4cd1f3eb025ac2e13"
+- features: ["dynamic"]
++ features: ["jpeg", "dynamic"]
 ```
 
 ## List Types
@@ -158,7 +159,7 @@ rev = "11f52b8c72fc3a568e8bb4a4cd1f3eb025ac2e13"
 
 H<sub>2</sub>O
 
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
+X<sup>n</sup> + Y<sup>n</sup>: Z<sup>n</sup>
 
 Press <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>Delete</kbd> to end the session.
 
