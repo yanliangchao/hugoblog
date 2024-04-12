@@ -118,7 +118,7 @@ params:
             lang:
             pageview:
             emoji:
-                - https://unpkg.zhimg.com/@waline/emojis@1.0.1/weibo
+                - https://unpkg.com/@waline/emojis@1.0.1/weibo
             requiredMeta:
                 - name
                 - email
