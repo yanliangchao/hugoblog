@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/index_template.md",
+                "file": "post/blog/create-blog-02/index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/index_template.md",
+                "file": "post/blog/create-blog-02/index.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/index_template.md",
+                "file": "post/blog/create-blog-02/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/index_template.md"
+                "file": "post/blog/create-blog-02/index.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "e3fcc04e2d493384",
   "lastOpenFiles": [
+    "template/index_template.md",
     "post/blog/create-blog-02/index.md",
     "post/blog/create-blog-02/index-20240504233023.png",
     "post/blog/create-blog-02/index-20240504232933.png",
@@ -162,7 +163,6 @@
     "post/blog/create-blog-02/index-20240504223631.png",
     "post/blog/create-blog-02/index-20240504224659.png",
     "post/blog/create-blog-01/index.md",
-    "template/index_template.md",
     "post/obsidian/index.md",
     "cloudflare.md",
     "post/blog/create-blog-02",
