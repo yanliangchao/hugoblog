@@ -48,10 +48,10 @@ git push origin main
 
 > 设置以下部署命令
 
-![index-20240504224548.png](index-20240504224548.png)
+![](index-20240504224548.png)
 > 环境变量设置hugo版本和你本地版本一致
 
-![index-20240504224659.png](index-20240504224659.png)
+![](index-20240504224659.png)
 > 点击Deploy，等待部署成功
 
 ![index-20240504224803.png](index-20240504224803.png)

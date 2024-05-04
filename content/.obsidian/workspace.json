@@ -15,7 +15,7 @@
               "state": {
                 "file": "post/blog/create-blog-02/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -138,39 +138,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "notion-like-tables:Create loom": false
+      "command-palette:打开命令面板": false
     }
   },
   "active": "e3fcc04e2d493384",
   "lastOpenFiles": [
-    "post/blog/create-blog-01/index.md",
-    "post/blog/create-blog-01/create-blog-01.jpg",
+    "post/blog/create-blog-02/index-20240504222753.png",
+    "post/obsidian/img/Pasted image 20240505003203.png",
+    "post/obsidian/index.md",
+    "post/obsidian/img",
+    "Pasted image 20240505003110.png",
+    "post/interview/2024-04-26/index.md",
     "post/blog/create-blog-02/index.md",
     "template/index_template.md",
+    "post/blog/create-blog-01/index.md",
+    "post/blog/create-blog-01/create-blog-01.jpg",
     "post/blog/create-blog-02/index-20240504233023.png",
     "post/blog/create-blog-02/index-20240504232933.png",
     "post/blog/create-blog-02/index-20240504232930.png",
     "post/blog/create-blog-02/index-20240504232813.png",
-    "post/blog/create-blog-02/index-20240504222753.png",
     "post/blog/create-blog-02/index-20240504223852.png",
     "post/blog/create-blog-02/index-20240504224548.png",
-    "post/blog/create-blog-02/index-20240504223519.png",
-    "post/blog/create-blog-02/index-20240504223631.png",
-    "post/obsidian/index.md",
     "cloudflare.md",
     "post/blog/create-blog-02",
     "page/about/index.md",
     "template",
     "post/markdown-syntax/index.md",
     "post/obsidian",
-    "post/interview/2024-04-26/index.md",
     "post/interview/2024-04-25/index.md",
     "_index.md"
   ]

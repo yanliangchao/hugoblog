@@ -1,19 +1,14 @@
 ---
 author: Alex Yan
-title: Markdown Syntax Guide01
-date: 2024-05-04 22:04:26
-description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
+title: 博客搭建记录 《一》
+description: 使用Hugo搭建博客 - 准备工作
+date: 2024-05-05T00:29:18+8:00
 tags:
-  - markdown
-  - css
-  - html
-  - themes
+  - blog
 categories:
-  - operation
-  - code
   - log
-series:
-  - Themes Guide
-image: 
-draft: true
+image: create-blog-01.jpg
+aliases:
+  - create-blog-1
 ---
+![](Pasted%20image%2020240505003203.png)
