@@ -31,17 +31,17 @@ git push origin main
 ```
 # 部署项目到Vercel
 ## 进入我的项目，新建一个项目
-![index-20240504222753.png](index-20240504222753.png)
+![](index-20240504222753.png)
 ## 从GitHub仓库导入项目
 > 第一次使用要将项目从GitHub添加进来
 
-![index-20240504223519.png](index-20240504223519.png)
+![](index-20240504223519.png)
 > 这里选择添加的项目
 
-![index-20240504223631.png](index-20240504223631.png)
+![](index-20240504223631.png)
 > 添加成功后如下
 
-![index-20240504223852.png](index-20240504223852.png)
+![](index-20240504223852.png)
 
 ## 部署项目
 > 点击上图的Import按钮
@@ -54,41 +54,40 @@ git push origin main
 ![](index-20240504224659.png)
 > 点击Deploy，等待部署成功
 
-![index-20240504224803.png](index-20240504224803.png)
+![](index-20240504224803.png)
 ## 部署成功后的截图
 > 部署成功后，Vercel会自动给你生成一个域名，但此域名现在只能通过科学方式访问。所以我们需要通过Cloudflare将阿里云购买的域名绑定到Vercel中去。让我们不需要科学方式访问。
 
-![index-20240504225234.png](index-20240504225234.png)
+![](index-20240504225234.png)
 # [Cloudflare](https://dash.cloudflare.com/)解析阿里云域名
 ## 登录到[Cloudflare](https://dash.cloudflare.com/) ,点击网站，点击添加站点
 
-![index-20240504231242.png](index-20240504231242.png)
+![](index-20240504231242.png)
 
 ## 输入阿里云申请的域名，点击继续
 
-![index-20240504231403.png](index-20240504231403.png)
 
 ## 一直下一步到检查，会生成两个DNS地址
 
-![index-20240504231607.png](index-20240504231607.png)
+![](index-20240504231607.png)
 
 ## 登录到阿里云的域名管理
 
-![index-20240504232236.png](index-20240504232236.png)
+![](index-20240504232236.png)
 
 ## 修改DNS为第3步得到的DNS地址
 
-![index-20240504232416.png](index-20240504232416.png)
+![](index-20240504232416.png)
 
 
 ## 直到Cloudflare 检查通过，则为成功！
 # Vercel修改域名为阿里云域名
 ## 在Vercel项目中点击Domains
-![index-20240504232556.png](index-20240504232556.png)
+![](index-20240504232556.png)
 
 ## 新增域名，会提示你配置CNAME解析记录
-![index-20240504232813.png](index-20240504232813.png)
+![](index-20240504232813.png)
 ## 在Cloudflare添加这条解析记录
-![index-20240504232933.png](index-20240504232933.png)
-![index-20240504233023.png](index-20240504233023.png)
+![](index-20240504232933.png)
+![](index-20240504233023.png)
 ## 直到Vercel验证通过，就可以通过这个域名访问Blog了。
