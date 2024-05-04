@@ -12,6 +12,6 @@ categories:
   - operation
   - code
   - log
-image: 
+image: aaa.png
 draft: true
 ---

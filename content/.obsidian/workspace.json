@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/blog/create-blog-02/index.md",
+                "file": "template/index_template.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "post/blog/create-blog-02/index.md",
+                "file": "template/index_template.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "post/blog/create-blog-02/index.md",
+                "file": "template/index_template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "post/blog/create-blog-02/index.md"
+                "file": "template/index_template.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "e3fcc04e2d493384",
   "lastOpenFiles": [
+    "post/blog/create-blog-02/index.md",
     "post/blog/create-blog-02/index-20240504233023.png",
     "post/blog/create-blog-02/index-20240504232933.png",
     "post/blog/create-blog-02/index-20240504232930.png",
@@ -160,8 +161,6 @@
     "post/blog/create-blog-02/index-20240504223519.png",
     "post/blog/create-blog-02/index-20240504223631.png",
     "post/blog/create-blog-02/index-20240504224659.png",
-    "post/blog/create-blog-02/index-20240504224803.png",
-    "post/blog/create-blog-02/index.md",
     "post/blog/create-blog-01/index.md",
     "template/index_template.md",
     "post/obsidian/index.md",
