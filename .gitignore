@@ -1,5 +1,6 @@
 .history
 public
 resources
+content/template
 assets/jsconfig.json
 .hugo_build.lock
