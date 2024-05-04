@@ -3,21 +3,16 @@ author: Alex Yan
 title: 整理面试题 2
 description: 整理面试题 2
 date: 2024-04-25T21:28:02+08:00
-#draft: 
-tags: [
-    "面试"
-]
-categories: [
-    "log",
-]
-#image: "create-blog-01.jpg"
-#aliases: ["create-blog-1"]
+tags:
+  - 面试
+categories:
+  - log
 ---
 
 # cdn是什么
 
 * CDN的全称是Content Delivery Network，即内容分发网络。其基本思路是尽可能避开互联网上有可能影响数据传输速度和稳定性的瓶颈和环节，使内容传输得更快、更稳定。通过在网络各处放置节点服务器所构成的在现有的互联网基础之上的一层智能虚拟网络，CDN系统能够实时地根据网络流量和各节点的连接、负载状况以及到用户的距离和响应时间等综合信息将用户的请求重新导向离用户最近的服务节点上。其目的是使用户可就近取得所需内容，解决
-Internet网络拥挤的状况，提高用户访问网站的响应速度。
+Internet网络拥挤的状况，提高用户访问网站的响应速度。![[Pasted image 20240504203808.png]]
 
 # 介绍一下了解的应用服务发布策略
 
