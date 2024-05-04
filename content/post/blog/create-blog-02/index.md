@@ -9,6 +9,8 @@ tags:
 categories:
   - log
 image: create-blog-02.jpg
+aliases:
+  - create-blog-2
 ---
 # 环境准备
 1. 阿里云购买一个域名
