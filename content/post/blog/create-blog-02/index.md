@@ -1,7 +1,7 @@
 ---
 author: Alex Yan
 title: 博客搭建记录 《二》
-date: 2024-05-04 22:05:01
+date: 2024-05-04T22:28:02+08:00
 description: 使用 cloudflare vercel 部署博客
 tags:
   - blog
