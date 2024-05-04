@@ -4,5 +4,7 @@ public
 resources
 template/
 .obsidian/
+workspace.json
+settings.json
 assets/jsconfig.json
 .hugo_build.lock
