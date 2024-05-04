@@ -2,7 +2,7 @@
 .vscode
 public
 resources
-content/template
-content/.obsidian
+template/
+.obsidian/
 assets/jsconfig.json
 .hugo_build.lock
