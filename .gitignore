@@ -5,6 +5,7 @@ resources
 template/
 .obsidian/
 .obsidian/workspace.json
+.trash
 .vscode/settings.json
 assets/jsconfig.json
 .hugo_build.lock
