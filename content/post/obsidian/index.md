@@ -11,4 +11,4 @@ image: create-blog-01.jpg
 aliases:
   - create-blog-1
 ---
-![](Pasted%20image%2020240505003203.png)
+![](img/index-20240505114632.png)

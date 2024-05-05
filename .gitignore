@@ -1,10 +1,10 @@
 .history
-.vscode
+.vscode/
 public
 resources
 template/
 .obsidian/
-workspace.json
-settings.json
+.obsidian/workspace.json
+.vscode/settings.json
 assets/jsconfig.json
 .hugo_build.lock
