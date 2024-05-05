@@ -10,5 +10,6 @@ categories:
 image: create-blog-01.jpg
 aliases:
   - create-blog-1
+draft: true
 ---
 ![](img/index-20240505114632.png)
